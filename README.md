@@ -1,4 +1,4 @@
 # Blackjack-Personal-Project
 Blackjack Personal Project (written for C++, Python and Java) 
 
-#Still in progress
+**Still in progress**
