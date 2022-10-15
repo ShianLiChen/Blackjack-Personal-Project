@@ -1,2 +1,4 @@
 # Blackjack-Personal-Project
-Blackjack Personal Project (written for C++, Python and Java) still in progress
+Blackjack Personal Project (written for C++, Python and Java) 
+
+#Still in progress
